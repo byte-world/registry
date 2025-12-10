@@ -1,4 +1,4 @@
-inet6num:       fd31::/16
+inet6num:       fc00::/7
 netname:        BYTEWORLD-V6-ALLOC
 descr:          Global ULA allocation
 country:        ZZ
