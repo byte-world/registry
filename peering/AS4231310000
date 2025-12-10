@@ -1,4 +1,4 @@
-peer:           AS4231310000
+peer:           AS4200000000
 as-name:        BYTEWORLD-CORE
 mp-peering:     fd31:0::1 fd31:0::2
 v4-peering:     10.100.0.1 10.100.0.2
