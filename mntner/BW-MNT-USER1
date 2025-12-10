@@ -1,0 +1,6 @@
+mntner:         BW-MNT-USER1
+admin-c:        BW-PERSON-002
+tech-c:         BW-PERSON-002
+auth:           pgp-fingerprint FEDCBA9876543210FEDCBA9876543210FEDCBA98
+mnt-by:         BW-MNT-USER1
+source:         BYTEWORLD
