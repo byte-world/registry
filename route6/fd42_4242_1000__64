@@ -1,4 +1,0 @@
-route6:         fd42:4242:4242:1000::/64
-origin:         AS4200001000
-mnt-by:         BW-MNT-USER1
-source:         BYTEWORLD

@@ -1,0 +1,4 @@
+route6:         fd31:1000::/32
+origin:         AS4231311000
+mnt-by:         BW-MNT-USER1
+source:         BYTEWORLD
