@@ -1,4 +1,4 @@
-inet6num:       fd42:4242:4242::/48
+inet6num:       fd31::/16
 netname:        BYTEWORLD-V6-ALLOC
 descr:          Global ULA allocation
 country:        ZZ
