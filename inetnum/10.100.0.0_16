@@ -1,0 +1,8 @@
+inetnum:        10.100.0.0 - 10.100.255.255
+netname:        BYTEWORLD-ALLOC
+descr:          Byte World Global Allocation Pool
+country:        ZZ
+admin-c:        BW-PERSON-001
+tech-c:         BW-PERSON-001
+mnt-by:         BW-MNT-HONEYTECH
+source:         BYTEWORLD
