@@ -1,4 +1,4 @@
-peer:           AS4200001000
+peer:           AS65100
 as-name:        USER1-NET
 mp-peering:     2001:db8:100::1 2001:db8:100::2
 v4-peering:     10.0.0.1 10.0.0.2
