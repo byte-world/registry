@@ -1,0 +1,6 @@
+peer:           AS65000
+as-name:        BYTEWORLD-CORE
+mp-peering:     fd31::1 fd31::2
+v4-peering:     172.31.0.1 172.31.0.2
+wireguard:      port 51820, pubkey COREPUBKEY==
+source:         BYTEWORLD
