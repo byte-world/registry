@@ -1,0 +1,8 @@
+aut-num:        AS4200001000
+as-name:        USER1-NET
+admin-c:        BW-PERSON-002
+tech-c:         BW-PERSON-002
+mnt-by:         BW-MNT-USER1
+import:         from AS4200000000 accept ANY
+export:         to AS4200000000 announce AS4200001000:AS-ROUTES
+source:         BYTEWORLD
