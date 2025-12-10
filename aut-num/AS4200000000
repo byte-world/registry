@@ -1,0 +1,11 @@
+aut-num:        AS4200000000
+as-name:        BYTEWORLD-CORE
+admin-c:        BW-PERSON-001
+tech-c:         BW-PERSON-001
+mnt-by:         BW-MNT-HONEYTECH
+remarks:        Byte World core ASN
+import:         from AS4200001000 accept ANY
+import:         from AS4200001001 accept ANY
+export:         to AS4200001000 announce ANY
+export:         to AS4200001001 announce ANY
+source:         BYTEWORLD
