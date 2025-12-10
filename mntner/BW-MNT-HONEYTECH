@@ -1,0 +1,6 @@
+mntner:         BW-MNT-HONEYTECH
+admin-c:        BW-PERSON-001
+tech-c:         BW-PERSON-001
+auth:           pgp-fingerprint 0123456789ABCDEF0123456789ABCDEF01234567
+mnt-by:         BW-MNT-HONEYTECH
+source:         BYTEWORLD
