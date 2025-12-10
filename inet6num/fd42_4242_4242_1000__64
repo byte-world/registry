@@ -1,6 +1,6 @@
 inet6num:       fd42:4242:4242:1000::/64
 netname:        USER1-V6
-descr:          IPv6 allocation for AS4200001000
+descr:          IPv6 allocation for AS65100
 country:        ZZ
 admin-c:        BW-PERSON-002
 tech-c:         BW-PERSON-002
