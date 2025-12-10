@@ -1,0 +1,8 @@
+inet6num:       fd42:4242:4242::/48
+netname:        BYTEWORLD-V6-ALLOC
+descr:          Global ULA allocation
+country:        ZZ
+admin-c:        BW-PERSON-001
+tech-c:         BW-PERSON-001
+mnt-by:         BW-MNT-HONEYTECH
+source:         BYTEWORLD
