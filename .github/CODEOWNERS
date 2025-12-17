@@ -1,0 +1,17 @@
+# Global fallback
+* @byteworld-admins
+
+# Registry is sacred
+/registry/ @registry-maintainers
+
+# Allocation state (VERY sensitive)
+/state/ @core-ops
+
+# Core ASN policies
+/docs/policies/core-asn-policy.md @core-ops
+
+# Infrastructure code
+/infra/ @infra-team
+
+# Regional cores
+/regions/*/core/ @regional-core-admins
