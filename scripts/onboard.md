@@ -1,4 +1,4 @@
-```yaml
+```sh
 #!/usr/bin/env bash
 # scripts/onboard.sh
 
