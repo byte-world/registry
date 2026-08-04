@@ -51,7 +51,7 @@ ByteWorld uses 32-bit private ASNs (RFC 6996 range is
 `4200000000`–`4294967294`) from the entire reserved block:
 
 ```
-4230000000 – 4239999999   (1,000 ASNs)
+4230000000 – 4239999999   (10,000,000 ASNs)
 ```
 
 - `4200000000`–`4229999999` — reserved for Byte IX route servers and core infrastructure
