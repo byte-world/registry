@@ -1,0 +1,6 @@
+aut-num:    AS4201722032
+as-name:    BYTEWORLD-BYTEIX-RS2
+descr:      Byte IX route server 2
+admin-c:    CORE-BYTEWORLD
+mnt-by:     BYTEWORLD-CORE-MNT
+source:     BYTEWORLD
