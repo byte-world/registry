@@ -1,5 +1,5 @@
 route:      fd00:2030::/32
 origin:     AS4201722030
 descr:      Byte IX route server LAN
-mnt-by:     BW-CORE-MNT
+mnt-by:     BYTEWORLD-CORE-MNT
 source:     BYTEWORLD
