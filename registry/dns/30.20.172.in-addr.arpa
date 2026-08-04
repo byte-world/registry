@@ -1,0 +1,5 @@
+dns:        30.20.172.in-addr.arpa
+nserver:    ns1.byteworld.mesh
+nserver:    ns2.byteworld.mesh
+mnt-by:     BYTEWORLD-CORE-MNT
+source:     BYTEWORLD
