@@ -1,4 +1,4 @@
-name: Validate bwnet registry
+name: Validate ByteWorld registry
 
 on:
   push:
