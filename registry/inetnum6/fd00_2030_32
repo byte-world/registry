@@ -1,0 +1,7 @@
+inet6num:   fd00:2030::/32
+netname:    BYTEWORLD-CORE-BYTEIX
+descr:      Core / Byte IX region ULA block
+country:    KE
+admin-c:    CORE-BYTEWORLD
+mnt-by:     BYTEWORLD-CORE-MNT
+source:     BYTEWORLD
