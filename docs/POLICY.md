@@ -1,4 +1,4 @@
-# bwnet Addressing & ASN Policy
+# ByteWorld Addressing & ASN Policy
 
 This document defines the private numbering plan for the ByteWorld mesh
 registry. It mirrors dn42's approach: space carved out of ranges reserved
