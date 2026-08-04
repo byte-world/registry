@@ -22,14 +22,9 @@ are reserved for future neighborhoods.
 | Allocation               | Block              |
 |--------------------------|--------------------|
 | Reserved                 | `172.16.0.0/14`    |
-|--------------------------|--------------------|
 | Active Pool              | `172.20.0/14`      |
-|--------------------------|--------------------|
-| Reserved for allocation  | `172.24.0.0/20`    |
-| after depletion          |                    |
-|--------------------------|--------------------|
+| Reserved for allocation after depletion  | `172.24.0.0/20`    |
 | Reserved for future use  | `172.28.0.0/14`    |
-|__________________________|____________________|
 
 Within a block `/14`, node operators receive a `/24` to `/22` depending
 on projected link count. A node uses its block for point-to-point
@@ -56,11 +51,11 @@ ByteWorld uses 32-bit private ASNs (RFC 6996 range is
 `4200000000`–`4294967294`) from the entire reserved block:
 
 ```
-4243000000 – 4294967294   (1,000 ASNs)
+4230000000 – 4239999999   (1,000 ASNs)
 ```
 
-- `4200000000`–`4220310100` — reserved for Byte IX route servers and core infrastructure
-- `4220310200`–`4294967294` — assigned to nodes/operators on request, sequentially, tracked via `aut-num` objects in this registry
+- `4200000000`–`4229999999` — reserved for Byte IX route servers and core infrastructure
+- `4230000000`–`4239999999` — assigned to nodes/operators on request, sequentially, tracked via `aut-num` objects in this registry
 
 If you'd rather run a 16-bit private ASN (`64512`–`65534`) on
 older/limited hardware (some MikroTik RouterOS 6 setups prefer this),
