@@ -1,0 +1,5 @@
+route:      172.20.30.0/24
+origin:     AS4201722030
+descr:      Byte IX route server LAN
+mnt-by:     BW-CORE-MNT
+source:     BYTEWORLD
