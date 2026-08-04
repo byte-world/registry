@@ -66,11 +66,11 @@ router bgp 4243000012
  neighbor fd00:beef:cafe:food::2 remote-as 4243000045
  !
  address-family ipv6 unicast
-  neighbor bw-peername prefix-list BWNET-IN in
-  neighbor bw-peername prefix-list BWNET-OUT out
+  neighbor bw-peername prefix-list BYTEWORLD-IN in
+  neighbor bw-peername prefix-list BYTEWORLD-OUT out
  exit-address-family
 
-ip prefix-list BWNET-IN seq 5 permit fd00::/8 le 32
+ip prefix-list BYTEWORLD-IN seq 5 permit fd00::/8 le 32
 ```
 
 ### MikroTik RouterOS 7
@@ -79,13 +79,13 @@ ip prefix-list BWNET-IN seq 5 permit fd00::/8 le 32
 /routing bgp connection
 add name=bw-peername remote.address=fd00:beef:cafe:food::2 \
     remote.as=4243000045 local.as=4243000012 \
-    input.filter=bwnet-import output.filter=bwnet-export \
+    input.filter=BYTEWORLD-import output.filter=BYTEWORLD-export \
     multihop=yes
 ```
 
 ## 4. Filtering — always filter to the registry
 
-Never accept a full table or default from a bwnet peer, and never accept
+Never accept a full table or default from a BYTEWORLD peer, and never accept
 prefixes that don't have a matching `route`/`route6` object with the
 peer's ASN as origin. A future iteration of `scripts/validate.py` will
 export generated prefix-lists per ASN so filters can be built
