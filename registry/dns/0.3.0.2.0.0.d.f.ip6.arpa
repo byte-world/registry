@@ -1,0 +1,5 @@
+dns:        0.3.0.2.0.0.d.f.ip6.arpa
+nserver:    ns1.byteworld.mesh
+nserver:    ns2.byteworld.mesh
+mnt-by:     BYTEWORLD-CORE-MNT
+source:     BYTEWORLD
