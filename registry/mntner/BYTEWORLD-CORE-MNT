@@ -1,0 +1,6 @@
+mntner:     BYTEWORLD-CORE-MNT
+descr:      ByteWorld core registry maintainers
+admin-c:    CORE-BYTEWORLD
+auth:       pgp-fingerprint 0000-CORE-PLACEHOLDER
+mnt-by:     BYTEWORLD-CORE-MNT
+source:     BYTEWORLD
