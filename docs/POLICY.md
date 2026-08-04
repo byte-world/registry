@@ -5,7 +5,7 @@ registry. It mirrors dn42's approach: space carved out of ranges reserved
 for private use (RFC 1918 / RFC 4193 / RFC 6996), coordinated entirely
 through this registry so no two nodes ever collide.
 
-**bwnet space is not routed on the public internet.** It is only valid
+**BYTEWORLD space is not routed on the public internet.** It is only valid
 between ByteWorld peers who have agreed to accept these announcements.
 -
 ---
