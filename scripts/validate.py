@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-bwnet registry validator.
+ByteWorld registry validator.
 
 Walks registry/<type>/* object files, checks:
   - required fields are present for each object type
