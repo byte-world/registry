@@ -1,4 +1,4 @@
-# bwnet Peering Guide
+# ByteWorld Peering Guide
 
 How to bring up a link with another ByteWorld node once you both have
 registry entries.
