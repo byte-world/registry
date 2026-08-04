@@ -1,4 +1,4 @@
-# ByteWorld Registry — bwnet
+# ByteWorld Registry — byteworld
 
 A [dn42](https://dn42.eu)-style decentralized routing registry and peering
 network for **ByteWorld**, the volunteer-run community mesh network in
